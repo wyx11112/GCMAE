@@ -48,7 +48,7 @@ python main.py --dataset cora --task cls --device 0
 
 ```bash
 # Run the code manually for graph classification:
-python main_graph.py --dataset IMDB-BINARY --task cls --device 0 
+python main_graph.py --dataset IMDB-BINARY --device 0 
 ```
 
 Run  with `--use_cfg` in command to reproduce the reported results.
