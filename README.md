@@ -1,5 +1,5 @@
 <p>
-  <img src="img/framework.pdf" width="1000">
+  <img src="/img/framework.pdf" width="1000">
   <br />
 </p>
 The overview of GCMAE.
